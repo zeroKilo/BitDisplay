@@ -1,0 +1,9 @@
+D:\CODE\c#\BitDisplay\BitDisplay\bin\Debug\BitDisplay.exe.config
+D:\CODE\c#\BitDisplay\BitDisplay\bin\Debug\BitDisplay.exe
+D:\CODE\c#\BitDisplay\BitDisplay\bin\Debug\BitDisplay.pdb
+D:\CODE\c#\BitDisplay\BitDisplay\obj\Debug\BitDisplay.csprojResolveAssemblyReference.cache
+D:\CODE\c#\BitDisplay\BitDisplay\obj\Debug\BitDisplay.Form1.resources
+D:\CODE\c#\BitDisplay\BitDisplay\obj\Debug\BitDisplay.Properties.Resources.resources
+D:\CODE\c#\BitDisplay\BitDisplay\obj\Debug\BitDisplay.csproj.GenerateResource.Cache
+D:\CODE\c#\BitDisplay\BitDisplay\obj\Debug\BitDisplay.exe
+D:\CODE\c#\BitDisplay\BitDisplay\obj\Debug\BitDisplay.pdb
